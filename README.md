@@ -35,12 +35,12 @@ EN:
 
 ### 2️⃣ Install tkinter(if necessary)/Встановити tkinter (якщо потрібно):
 
-\```
+```
 bash
 pip install tk
 
 python main.py
-\```
+```
 
 ### Project Structure/Структура проєкту
 
