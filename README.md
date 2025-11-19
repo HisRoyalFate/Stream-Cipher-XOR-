@@ -44,10 +44,10 @@ python main.py
 
 ### Project Structure/Структура проєкту
 
-main.py              # Main program code/Основний код програми
-before.dat           # Input plaintext/Вхідний відкритий текст
-key.dat              # Encryption key/Ключ для шифрування
-encrypted.dat        # Encrypted text/Зашифрований текст
-decrypted.dat        # Decrypted text/Розшифрований текст
-README.md            # Documentation/Документація
+1. main.py              # Main program code/Основний код програми
+2. before.dat           # Input plaintext/Вхідний відкритий текст
+3. key.dat              # Encryption key/Ключ для шифрування
+4. encrypted.dat        # Encrypted text/Зашифрований текст
+5. decrypted.dat        # Decrypted text/Розшифрований текст
+6. README.md            # Documentation/Документація
 
