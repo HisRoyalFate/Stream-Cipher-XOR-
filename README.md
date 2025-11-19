@@ -43,11 +43,11 @@ python main.py
 \```
 
 ### Project Structure/Структура проєкту
-.
-├── main.py              # Main program code/Основний код програми
-├── before.dat           # Input plaintext/Вхідний відкритий текст
-├── key.dat              # Encryption key/Ключ для шифрування
-├── encrypted.dat        # Encrypted text/Зашифрований текст
-├── decrypted.dat        # Decrypted text/Розшифрований текст
-└── README.md            # Documentation/Документація
+
+main.py              # Main program code/Основний код програми
+before.dat           # Input plaintext/Вхідний відкритий текст
+key.dat              # Encryption key/Ключ для шифрування
+encrypted.dat        # Encrypted text/Зашифрований текст
+decrypted.dat        # Decrypted text/Розшифрований текст
+README.md            # Documentation/Документація
 
