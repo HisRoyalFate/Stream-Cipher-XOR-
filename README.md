@@ -19,7 +19,7 @@ Supports both Ukrainian and English interface languages.
 - 🧵 True streaming XOR encryption/Потокове XOR-шифрування  
 - 🔏 Password protection/Захист паролем  
 - 🌐 Language selection (UA/EN)/Перемикання мови інтерфейсу (UA/EN)
-🔑 Generate a key of any custom length
+- 🔑 Generate a key of any custom length/Генерування ключа будь-якої довжини
 
 ## 🖥️ Interface screenshot/Скриншот інтерфейсу
 UA:
@@ -35,12 +35,12 @@ EN:
 
 ### 2️⃣ Install tkinter(if necessary)/Встановити tkinter (якщо потрібно):
 
-\```
+```
 bash
 pip install tk
 
 python main.py
-\```
+```
 
 ### Project Structure/Структура проєкту
 
